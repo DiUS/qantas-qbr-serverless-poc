@@ -10,5 +10,4 @@ QBR Serverless to deploy a GraphQL
 - Install the dependencies
 `npm install`
 
-- Deploy the project
-`npm run deploy`
+The project uses GitHub workflows
